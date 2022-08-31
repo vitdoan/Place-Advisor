@@ -19,11 +19,17 @@ To get a local copy up and running follow these simple example steps.
 
 1. Get a free API Key at [Rapid API](https://rapidapi.com/hub)
 2. Clone the repo
-### `git clone https://github.com/vitdoan/Place-Advisor.git`
+```
+git clone https://github.com/vitdoan/Place-Advisor.git
+```
 3. Install NPM packages
-### `npm install`
+```
+npm install
+```
 4. Enter your API in `config.js`
-### `const API_KEY = 'ENTER YOUR API';`
+```
+const API_KEY = 'ENTER YOUR API';
+```
 
 ## Available Scripts
 
