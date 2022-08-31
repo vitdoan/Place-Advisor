@@ -1,4 +1,5 @@
 # Place Advisor
+<img width="1278" alt="Screen Shot 2022-08-31 at 20 40 42" src="https://user-images.githubusercontent.com/106452170/187713540-a7eea1e7-ad5b-45cf-a823-ea57cca15a41.png">
 
 ## Introduction
 Build this Place Advisor to help you be able to find and sort by rating near by restaurants in an area. Use your current location to fetch datas of hotels and restaurants near by. 
