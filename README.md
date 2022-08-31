@@ -1,6 +1,29 @@
-# Getting Started with Create React App
+# Place Advisor
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
+Build this Place Advisor to help you be able to find and sort by rating near by restaurants in an area. Use your current location to fetch datas of hotels and restaurants near by. 
+
+APIs:
+- Geolocation
+- Google Maps API
+- Rapid APIs
+
+Built with: 
+- ReactJS
+- JavaScript
+
+## Getting Started
+To get a local copy up and running follow these simple example steps.
+
+### Installation
+
+1. Get a free API Key at [Rapid API](https://rapidapi.com/hub)
+2. Clone the repo
+### `git clone https://github.com/vitdoan/Place-Advisor.git`
+3. Install NPM packages
+### `npm install`
+4. Enter your API in `config.js`
+### `const API_KEY = 'ENTER YOUR API';`
 
 ## Available Scripts
 
