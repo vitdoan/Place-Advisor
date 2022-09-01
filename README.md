@@ -1,4 +1,4 @@
-# Place Advisor
+# Places Around Me
 <img width="1278" alt="Screen Shot 2022-08-31 at 20 40 42" src="https://user-images.githubusercontent.com/106452170/187713540-a7eea1e7-ad5b-45cf-a823-ea57cca15a41.png">
 
 ## Introduction
